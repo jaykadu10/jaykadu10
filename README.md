@@ -3,7 +3,7 @@
 ### 📊 Data Analyst | 📈 Data Enthusiast | 🧠 Problem Solver  
 
 Welcome to my GitHub!  
-I’m passionate about turning raw data into actionable insights through **data analysis, visualization, and predictive modeling**.  
+I’m passionate about turning raw data into actionable insights through **data analysis, visualization**.  
 I work with tools like **Python, SQL, Power BI, and Excel** to uncover patterns and tell stories with data.  
 
 ---
