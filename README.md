@@ -12,18 +12,18 @@ I work with tools like **Python, SQL, Power BI, and Excel** to uncover patterns 
 
 **Languages & Libraries**  
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)  
-- SQL (MySQL, PostgreSQL)  
+- SQL (MySQL, PostgreSQL)
+- Web Scraping 
 - DAX, M (Power Query)  
 
 **Data Visualization**  
 - Power BI  
-- Tableau  
-- Matplotlib / Seaborn  
+- Matplotlib / Seaborn
+
 
 **Databases**  
 - MySQL  
-- PostgreSQL  
-- MongoDB  
+- PostgreSQL    
 
 **Other Tools**  
 - Excel (Advanced)  
@@ -32,25 +32,11 @@ I work with tools like **Python, SQL, Power BI, and Excel** to uncover patterns 
 
 ---
 
-## 📂 Featured Projects  
-
-- **📈 Stock Market Analysis** – Python & SQL project analyzing historical stock data with technical indicators.  
-  [🔗 View Project](link-to-repo)  
-
-- **📊 Sales Dashboard in Power BI** – Interactive report showing KPIs, regional sales trends, and profit analysis.  
-  [🔗 View Project](link-to-repo)  
-
-- **📉 Customer Churn Prediction** – Machine learning model predicting churn using logistic regression.  
-  [🔗 View Project](link-to-repo)  
-
----
 
 ## 📫 Let's Connect  
 
-- **LinkedIn:** [Your LinkedIn Profile](link)  
-- **Portfolio:** [Your Portfolio Website](link)  
-- **Email:** youremail@example.com  
-
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/jay-kadu-479693231/)  
+- **Email:** kadujay10@gmail.com
 ---
 
 💡 *"Data is the new oil, but it’s only valuable when refined into insights."*  
